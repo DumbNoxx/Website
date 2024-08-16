@@ -1,4 +1,4 @@
-img{
+.image-profile{
     width: 300px;
     height: 300px;
     border-radius: 150px;
@@ -10,7 +10,7 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
 }
-a{
+.redes{
     background-color: aquamarine;
     color: black;
     display: block;
@@ -39,4 +39,12 @@ p:hover span{
     0 0 20px #ffff
     0 0 40px #ffff
     ;
+}
+.title{
+    color:darkgray;
+}
+
+img{
+    padding: 2px;
+    margin: 3px;
 }
